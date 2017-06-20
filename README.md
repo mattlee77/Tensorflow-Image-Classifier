@@ -12,21 +12,21 @@ Purpose was to train the classifier to differentiate between Chow Chows and Corg
 ## Test Results
 
 Lets test the classifier on an unseen Chow Chow image
-![](/testimages/chowtest.jpg =275×183)
+<p><img src= "/testimages/chowtest.jpg" style="width: 275px; height: 183px;"/></p>
 
 #### Score
 
 <p><img src= "/Screenshots/chowtestresult.png"></p>
 
 Testing with an unseen Corgi image
-![](/testimages/corgitest.jpg =275×183)
+<p><img src= "/testimages/corgitest.jpg" style="width: 275px; height: 183px;"/></p>
 
 #### Score
 
 <p><img src= "/Screenshots/corgitestresult.png"></p>
 
 What about a lion?
-![](/testimages/liontest.jpg =275×183)
+<p><img src= "/testimages/liontest.jpg" style="width: 275px; height: 183px;"/></p>
 
 #### Score
 
